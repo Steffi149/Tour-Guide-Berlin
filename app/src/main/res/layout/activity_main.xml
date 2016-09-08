@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.tourguide.MainActivity">
+
+    <ImageView
+        android:id="@+id/Berlin"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:src="@drawable/berlin11"
+        android:layout_margin="1dp"
+        android:background="#740300" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_restaurant">
+        <TextView
+            android:id="@+id/restaurants"
+            style="@style/CategoryStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/category_restaurants"/>
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_sights">
+    <TextView
+        android:id="@+id/sights"
+        style="@style/CategoryStyle"
+        android:background="?android:attr/selectableItemBackground"
+        android:text="@string/category_sight" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_nightlife">
+    <TextView
+        android:id="@+id/nightlife"
+        style="@style/CategoryStyle"
+        android:background="?android:attr/selectableItemBackground"
+        android:text="@string/category_nightlife" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_events">
+    <TextView
+        android:id="@+id/events"
+        style="@style/CategoryStyle"
+        android:background="?android:attr/selectableItemBackground"
+        android:text="@string/category_events" />
+    </FrameLayout>
+
+</LinearLayout>
