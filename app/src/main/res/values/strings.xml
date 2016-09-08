@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Tour Guide: Berlin</string>
+    <string name="category_nightlife">Nightlife</string>
+    <string name="category_sights">Popular Sights</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_events">Events</string>
+    <string name="category_sight">Popular Sights</string>
+    <string name="date_one">September 23 - October 16, 2016</string>
+
+    <!-- Events -->
+    <string name="event_one">Octoberfest</string>
+    <string name="date_two">September 24 - 25, 2016</string>
+    <string name="event_two">Berlin Marathon</string>
+    <string name="date_three">July 21, 2016: Victory Column</string>
+    <string name="event_three">Loveparade</string>
+    <string name="date_four">July 23, 2016</string>
+    <string name="event_four">CSD</string>
+    <string name="date_five">November 27 - December 20, 2016</string>
+    <string name="event_five">Christmas Market</string>
+    <string name="date_six">September 30 - October 16, 2016</string>
+    <string name="event_six">Berlin leuchtet</string>
+    <string name="date_seven">October 1 - 8, 2016</string>
+    <string name="event_seven">Berlin Food Week</string>
+    <string name="date_eight">October 3, 2016</string>
+    <string name="event_eight">German Unity Day</string>
+    <string name="date_nine">October 7 - 16, 2016</string>
+    <string name="event_nine">Festival of Lights</string>
+    <string name="date_ten">November 1 - 6, 2016</string>
+    <string name="event_ten">Jazz Festival</string>
+    <string name="date_eleven">January 17 - 20, 2017</string>
+    <string name="event_eleven">Fashion Week</string>
+
+    <!-- Nightlife -->
+    <string name="nightlife_one">Berghain</string>
+    <string name="address_one">Am Wriezener Bahnhof, 10243 Berlin Friedrichshain</string>
+    <string name="nightlife_two">Tresor</string>
+    <string name="address_two">Kopenicker Straße 70, 10179 Berlin Mitte</string>
+    <string name="address_three">Vor dem Schlesischen Tor 3, 10997 Berlin Kreuzberg</string>
+    <string name="nightlife_three">Chalet</string>
+    <string name="address_four">Hauptstraße 15, 10317 Berlin Lichtenberg</string>
+    <string name="nightlife_four">Sisyphos</string>
+    <string name="address_five">Falckensteinstraß1 49, 10997 Berlin Kreuzberg</string>
+    <string name="nightlife_five">Watergate</string>
+    <string name="address_six">Unter den Linden and Friedrichstrasse, Mitte</string>
+    <string name="nightlife_six">Cookies</string>
+    <string name="address_seven">Alexanderstraße 5, Mitte</string>
+    <string name="nightlife_seven">Weekend</string>
+    <string name="address_eight">Am Flutgraben 2, Kreuzberg</string>
+    <string name="nightlife_eight">Club Der Visionaere</string>
+    <string name="address_nine">Mohrenstraße 30, Mitte</string>
+    <string name="nightlife_nine">Asphalt</string>
+    <string name="address_ten">Dorotheenstraße 90, Mitte</string>
+    <string name="nightlife_ten">Picknick</string>
+
+
+    <!-- Restaurants -->
+    <string name="restaurants_one">Hans im Glück</string>
+    <string name="restaurantaddress_one">Europaplatz 1, 10557 Berlin</string>
+    <string name="restaurants_two">Focaccia</string>
+    <string name="restaurantaddress_two">Alt-Moabit 51, 10555 Berlin</string>
+    <string name="restaurantaddress_three">Uhlandstraße 157, 10719 Berlin</string>
+    <string name="restaurants_three">I-Ke-Su</string>
+    <string name="restaurantaddress_four">Hauptstraße 15, 10317 Berlin Lichtenberg</string>
+    <string name="restaurants_four">Restaurant Tim Raue</string>
+    <string name="restaurantaddress_five">Durlacherstraße 15, 10715 Berlin</string>
+    <string name="restaurants_five">Restaurant Bieberbau</string>
+    <string name="restaurantaddress_six">Charlottenstraße 60, 10117 Berlin</string>
+    <string name="restaurants_six">Rausch Schokoladenhaus</string>
+    <string name="restaurantaddress_seven">Große Hamburger Str. 38, 10115 Berlin</string>
+    <string name="restaurants_seven">Saladette und Freunde</string>
+    <string name="restaurantaddress_eight">Strausbergerstraße Pl. 2, 10243 Berlin</string>
+    <string name="restaurants_eight">Ristorante A Mano</string>
+    <string name="restaurantaddress_nine">Mehringdamm 32, 10961 Berlin</string>
+    <string name="restaurants_nine">Mustafas Gemüse Kebap</string>
+    <string name="restaurantaddress_ten">Dorotheenstraße 90, Mitte</string>
+    <string name="restaurants_ten">na’aacha</string>
+
+    <!-- Sights -->
+    <string name="sightaddress_one">Bernauer Str. 111, 13355 Berlin</string>
+    <string name="sight_one">Memorial of the Berlin Wall</string>
+    <string name="sightaddress_two">Platz der Republik 1, 11011 Berlin</string>
+    <string name="sight_two">Bundestag Building</string>
+    <string name="sightaddress_three">Pariser Platz, 10117 Berlin</string>
+    <string name="sight_three">Brandenburger Gate</string>
+    <string name="sightaddress_four">Cora-Berliner-Straße 1, 10117 Berlin</string>
+    <string name="sight_four">The Holocaust Memorial</string>
+    <string name="sightaddress_five">Friedrichstraße 43-45, 10117 Berlin</string>
+    <string name="sight_five">Checkpoint Charlie</string>
+    <string name="sightaddress_six">Großer Stern, 10557 Berlin</string>
+    <string name="sight_six">Victory Column</string>
+    <string name="sightaddress_seven">Invalidenstraße 43, 10115 Berlin</string>
+    <string name="sight_seven">Natural History Museum</string>
+    <string name="sightaddress_eight">Panoramastraße 1A, 10178 Berlin</string>
+    <string name="sight_eight">Television Tower</string>
+    <string name="sightaddress_nine">Potsdamer Platz, 10785 Berlin</string>
+    <string name="sight_nine">Sony Center</string>
+    <string name="sightaddress_ten">Kurfürstendamm</string>
+    <string name="sight_ten">Kurfürstendamm</string>
+
+
+</resources>
