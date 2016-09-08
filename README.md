@@ -11,3 +11,7 @@ Nanogree Android Development</a>.
     <li>Navigating between those lists using intents and multiple Activities or a ViewPager.</li>
     <li>Creating your own custom classes.</li>
     <li>Properly handling images or audio (if applicable).</ul>
+    
+    
+    Emoji art supplied by http://emojione.com
+
